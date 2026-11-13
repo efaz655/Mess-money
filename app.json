@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Mess Money",
+    "slug": "mess-money-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.efaz.messmoney"
+    }
+  }
+}
